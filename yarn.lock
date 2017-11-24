@@ -5139,9 +5139,9 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
-react-notifys@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-notifys/-/react-notifys-1.1.0.tgz#eda79032c8d23b9ae24652f1835a5d0c6fe84b0e"
+react-notifys@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/react-notifys/-/react-notifys-1.2.2.tgz#c880bc99d0c12e7ec7371969955d7253584bc484"
   dependencies:
     react "^15.5.4"
     webpack "^2.6.1"
